@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"S:/PolytechGM/ClassNote/TPS_BP/TPS/Content/Blueprint/BP_TPSPlayer.uasset",
+				"S:/PolytechGM/ClassNote/TPS_BP/TPS/Content/Blueprint/BP_TPSGameMode.uasset",
 				"S:/PolytechGM/ClassNote/TPS/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"S:/PolytechGM/ClassNote/TPS/Content/Level/TPSMap.umap",
 				"S:/PolytechGM/ClassNote/TPS/Content/Blueprint/BP_TPSGameMode.uasset",

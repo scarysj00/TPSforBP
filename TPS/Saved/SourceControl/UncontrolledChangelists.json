@@ -7,6 +7,13 @@
 			"files": [
 				"S:/PolytechGM/ClassNote/TPS_BP/TPS/Content/Blueprint/BP_TPSPlayer.uasset",
 				"S:/PolytechGM/ClassNote/TPS_BP/TPS/Content/Blueprint/BP_TPSGameMode.uasset",
+				"S:/PolytechGM/ClassNote/TPS_BP/TPS/Content/Level/TPSMap.umap",
+				"S:/PolytechGM/ClassNote/TPS_BP/TPS/Content/Input/IA_LookUp.uasset",
+				"S:/PolytechGM/ClassNote/TPS_BP/TPS/Content/Input/IMC_TPS.uasset",
+				"S:/PolytechGM/ClassNote/TPS_BP/TPS/Content/Input/IA_Turn.uasset",
+				"S:/PolytechGM/ClassNote/TPS_BP/TPS/Content/Input/IA_PlayerMove.uasset",
+				"S:/PolytechGM/ClassNote/TPS_BP/TPS/Content/Input/IMC_Player.uasset",
+				"S:/PolytechGM/ClassNote/TPS_BP/TPS/Content/Input/IA_PlayerJump.uasset",
 				"S:/PolytechGM/ClassNote/TPS/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"S:/PolytechGM/ClassNote/TPS/Content/Level/TPSMap.umap",
 				"S:/PolytechGM/ClassNote/TPS/Content/Blueprint/BP_TPSGameMode.uasset",

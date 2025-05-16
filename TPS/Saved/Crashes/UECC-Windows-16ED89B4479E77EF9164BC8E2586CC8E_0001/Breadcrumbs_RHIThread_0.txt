@@ -1,0 +1,4 @@
+Breadcrumbs 'RHIThread'
+ - UpdateAllPrimitiveSceneInfos
+ - FRDGBuilder::Execute
+ - Frame 238480
